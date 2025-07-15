@@ -1,0 +1,14 @@
+{
+  "name": "multi-platform-app",
+  "version": "1.0.0",
+  "description": "Multi-platform Docker application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Build completed'",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
